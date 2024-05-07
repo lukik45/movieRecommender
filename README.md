@@ -15,6 +15,3 @@ This project utilizes association rules to create a movie recommendation system.
 4. **Apriori Algorithm**: Implemented to find frequent itemsets and derive association rules.
 5. **Recommendations**: Generated based on high confidence and lift from the association rules.
 
-## Achievements
-- Developed a versatile recommender that not only suggests movies but also identifies potential dislikes.
-- Enhanced user experience by personalizing movie recommendations based on historical data.
